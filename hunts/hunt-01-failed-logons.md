@@ -1,4 +1,4 @@
-# Hunt 01 — Failed Logon Spike
+# Hunt 01 — Failed logons by user and host
 
 ## Objective
 Identify repeated failed login attempts that may indicate brute force or password spraying.
